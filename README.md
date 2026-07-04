@@ -1,115 +1,170 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,100:52b788&height=250&section=header&text=Chethan%20S&fontSize=70&fontColor=d8f3dc&animation=fadeIn&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Android%20Developer&descSize=18&descColor=95d5b2&descAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a00,50:ff4500,100:ff8c00&height=280&section=header&text=Chethan%20S&fontSize=72&fontColor=fff5e6&animation=fadeIn&desc=AI%20%26%20ML%20Engineer%20%7C%20Android%20Developer%20%7C%20Gen%20AI%20Builder&descSize=16&descColor=ffb347&descAlignY=72" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&width=700&lines=🌱+Cultivating+Intelligent+AI+Systems;🌿+Growing+Data-Driven+Mobile+Solutions;🍃+Generative+AI+%26+ML+Engineer;🌲+Co-Inventor+of+an+AI+Patent" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=FF6B35&center=true&vCenter=true&width=720&lines=%5B%E2%96%B6%5D+System+Boot+Sequence+Initiated...;%5B%E2%96%B6%5D+Loading+AI+%26+ML+Core+Modules...;%5B%E2%96%B6%5D+Deploying+Generative+AI+Pipelines...;%5B%E2%96%B6%5D+Compiling+Android+Applications...;%5B%E2%96%B6%5D+Neural+Link+Established.+Welcome." alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/chethan-s-780-61b250">
+    <img src="https://img.shields.io/badge/LinkedIn-1a0a00?style=for-the-badge&logo=linkedin&logoColor=ff6b35" />
+  </a>&nbsp;
+  <a href="mailto:chethans3413@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1a0a00?style=for-the-badge&logo=gmail&logoColor=ff6b35" />
+  </a>&nbsp;
+  <a href="https://github.com/Chethans3413">
+    <img src="https://img.shields.io/badge/GitHub-1a0a00?style=for-the-badge&logo=github&logoColor=ff6b35" />
   </a>
 </div>
 
-<br />
+<br/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/chethan-s-780-61b250"><img src="https://img.shields.io/badge/LinkedIn-0d1f15?style=for-the-badge&logo=linkedin&logoColor=74c69d" /></a>
-  <a href="mailto:chethans3413@gmail.com"><img src="https://img.shields.io/badge/Email-0d1f15?style=for-the-badge&logo=gmail&logoColor=74c69d" /></a>
-  <a href="https://github.com/Chethans3413"><img src="https://img.shields.io/badge/GitHub-0d1f15?style=for-the-badge&logo=github&logoColor=74c69d" /></a>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br />
+## 「 About Me 」
 
-<div align="center">
-  <!-- A peaceful nature pixel art GIF -->
-  <img src="https://media.giphy.com/media/L0qTl8hl84EDly62J1/giphy.gif" width="450" />
-</div>
-
-<br />
-
-### 🌿 About Me
-
-```yaml
-Name: Chethan S
-Location: Bangalore, India 🇮🇳
-Role: AI/ML Engineer & Android Developer
-Education: B.E. in CSE (AI & ML) @ SVIT
-Focus: Large Language Models, RAG Pipelines, Agentic AI
-Fun_Fact: "Co-inventor of an AI Patent in my 3rd year of Engineering! 📜"
+```javascript
+const chethan = {
+    alias    : "Chethans3413",
+    role     : "AI & ML Engineer | Android Developer",
+    degree   : "B.E CSE (AI & ML) Graduate — SVIT",
+    cgpa     : "8.15 / 10",
+    location : "Bangalore, India 🇮🇳",
+    focus    : ["Generative AI", "RAG Pipelines", "Agentic AI", "LLMs"],
+    building : "AI-Powered Apps & Intelligent Android Systems",
+    learning : ["LangChain", "MLOps", "Agentic Architectures"],
+    patent   : "Co-Inventor — AI Disaster Prediction System 📜",
+    funFact  : "I turned my 3rd-year project into a published patent 🔥"
+};
 ```
 
----
+- 🔥 Building **AI-Powered Applications & Generative AI Pipelines**
+- 🤖 Exploring **LLMs, RAG Pipelines & Agentic AI**
+- 📱 Creating **Android Apps** with Kotlin & Jetpack Compose
+- 📜 **Patent Co-Inventor** — AI-Powered Disaster Prediction System
+- 📬 Reach me: **chethans3413@gmail.com** | **9980832260**
 
-### 🌲 Tech Ecosystem
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 「 Experience 」
+
+**📱 Android App Development Using Gen AI — Intern**
+*MindMatrix | Feb 2026 – May 2026*
+
+- Built Android applications using **Kotlin & Jetpack Compose**
+- Integrated **Google AI Studio & Google Cloud Labs** for Gen AI workflows
+- Handled Firebase integration, app testing & production debugging
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 「 Projects 」
 
 <div align="center">
 
-**🤖 AI & Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn&theme=dark" />
-<br/>
-*LLMs, RAG, Prompt Engineering, LangChain, OpenCV, NLP*
-
-<br/>
-
-**📱 Mobile & Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,react,nodejs,spring&theme=dark" />
-
-<br/>
-
-**⚙️ Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,mysql&theme=dark" />
+| 🔥 Project | 💡 Description | 🛠️ Stack |
+|:---:|:---|:---:|
+| **AI Disaster Prediction System** | Real-time risk assessment for floods, earthquakes & wildfires. **(Patent Published)** | `Python` `TensorFlow` `FastAPI` `XGBoost` |
+| **Voice-Based Virtual Assistant** | Speech-to-text + NLP-powered command execution system. **(2nd Place 🥈)** | `JavaScript` `HTML/CSS` `NLP` |
+| **Raitha Varta — Smart Farming** | Multilingual Android app for farmers with AI crop disease detection | `Kotlin` `Firebase` `Android Studio` |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💼 Experience
-
-**Android App Development Using Gen AI (Intern) @ MindMatrix** *(Feb 2026 – May 2026)*
-- Developed Android applications using Kotlin and Jetpack Compose.
-- Integrated Google AI Studio and Google Cloud Labs for Gen AI workflows.
-- Managed Firebase integration, application testing, and debugging.
-
----
-
-### 🍃 Key Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **AI Disaster Prediction System** | Real-time risk assessment platform to forecast floods, earthquakes, and wildfires. *(Patent Published)* | `Python`, `TensorFlow`, `FastAPI` |
-| **Voice-Based Virtual Assistant** | Voice-enabled assistant with speech-to-text, command interpretation, and NLP response handling. | `JavaScript`, `NLP` |
-| **Raitha Varta (Smart Farming)** | Multilingual Android app offering agricultural insights and AI-assisted crop disease detection. | `Kotlin`, `Firebase` |
-
----
-
-### 🏆 Achievements & Certifications
-
-- 📜 **Patent Co-Inventor**: "AI-Powered Real-Time Disaster Prediction and Emergency Response System"
-- 🥈 **2nd Place**: Mini Project Competition (Voice-Based Virtual Assistant)
-- 🎓 **Certifications**: 
-  - Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-  - IBM Artificial Intelligence Fundamentals
-  - NPTEL Deep Learning
-  - AWS Introduction to EC2
-
----
-
-### 📊 GitHub Garden (Analytics)
+## 「 Tech Arsenal 」
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chethans3413&show_icons=true&hide_border=true&bg_color=0d1f15&title_color=52b788&icon_color=74c69d&text_color=d8f3dc" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Chethans3413&hide_border=true&background=0d1f15&stroke=52b788&ring=74c69d&fire=52b788&currStreakLabel=d8f3dc&sideLabels=d8f3dc&dates=d8f3dc" width="48%" />
+
+**🧠 AI & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn&theme=dark"/>
+
+`LLMs` `RAG` `LangChain` `Prompt Engineering` `OpenAI APIs` `Hugging Face` `FAISS` `Pinecone` `NLP` `OpenCV`
+
+<br/>
+
+**📱 Mobile & Full Stack**
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,react,nodejs,spring&theme=dark"/>
+
+<br/>
+
+**⚙️ Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,mysql&theme=dark"/>
+
 </div>
 
-<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 「 Achievements & Certifications 」
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chethans3413&bg_color=0d1f15&color=52b788&line=40916c&point=b7e4c7&area=true&hide_border=true" width="100%" />
+
+| 🏅 Achievement | 📜 Certification |
+|:---|:---|
+| 📜 **Patent Co-Inventor** — AI-Powered Disaster Prediction & Emergency Response System | ☁️ **Oracle Cloud Infrastructure** — Gen AI Certified Professional *(Sept 2025)* |
+| 🥈 **2nd Place** — Mini Project Competition (Voice-Based Virtual Assistant) | 🤖 **IBM** — Artificial Intelligence Fundamentals *(Oct 2025)* |
+| 🎓 **Member** — Computer Society of India (CSI), SVIT Chapter | 🎓 **NPTEL (IIT Kanpur)** — Deep Learning |
+| | ☁️ **AWS** — Introduction to Amazon EC2 |
+
 </div>
 
-<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 「 GitHub Stats 」
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,100:1b4332&height=120&section=footer" width="100%" />
+
+<a href="https://github.com/Chethans3413">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Chethans3413&show_icons=true&count_private=true&hide_border=true&bg_color=1a0a00&title_color=ff6b35&icon_color=ff8c00&text_color=fff5e6&ring_color=ff4500"/>
+</a>
+&nbsp;
+<a href="https://git.io/streak-stats">
+  <img height="180" src="https://streak-stats.demolab.com/?user=Chethans3413&hide_border=true&background=1a0a00&stroke=ff6b35&ring=ff4500&fire=ff8c00&currStreakLabel=ff6b35&sideLabels=fff5e6&dates=ffb347&currStreakNum=ff8c00"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chethans3413&bg_color=1a0a00&color=ff6b35&line=ff4500&point=ff8c00&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 「 Contribution Snake 」
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chethans3413/Chethans3413/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chethans3413/Chethans3413/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Chethans3413/Chethans3413/output/github-snake-dark.svg"/>
+</picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 「 Trophies 」
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chethans3413&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,50:ff4500,100:1a0a00&height=150&section=footer"/>
+</div>
+
+<div align="center">
+  <sub>🔥 Forged with passion by <a href="https://github.com/Chethans3413"><b>Chethan S</b></a> · Igniting AI, one commit at a time · © 2026</sub>
 </div>
