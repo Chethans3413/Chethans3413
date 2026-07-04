@@ -1,6 +1,98 @@
 <!-- ============================================================ -->
 <!--              CHETHAN S · GITHUB SYSTEM PROFILE               -->
 <!-- ============================================================ -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250">
+  <defs>
+    <filter id="glow-cyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur1" />
+      <feGaussianBlur stdDeviation="10" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes hover {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-15px); }
+    }
+    @keyframes flap-left {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(-22deg); }
+    }
+    @keyframes flap-right {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(22deg); }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.8; }
+      50% { opacity: 1; }
+    }
+
+    .dragon-system {
+      animation: hover 4s ease-in-out infinite;
+      transform-origin: 500px 125px;
+    }
+    .left-wing {
+      animation: flap-left 2s ease-in-out infinite;
+      transform-origin: 470px 115px;
+    }
+    .right-wing {
+      animation: flap-right 2s ease-in-out infinite;
+      transform-origin: 530px 115px;
+    }
+    .glowing-path {
+      stroke: #00F0FF;
+      stroke-width: 2.5;
+      fill: none;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      filter: url(#glow-cyan);
+      animation: pulse 3s infinite;
+    }
+    .body-accent {
+      stroke: #72FFFF;
+      stroke-width: 1.5;
+      fill: none;
+      stroke-linecap: round;
+      filter: url(#glow-cyan);
+      opacity: 0.8;
+    }
+    .grid-lines {
+      stroke: #0c2540;
+      stroke-width: 1;
+      opacity: 0.4;
+    }
+  </style>
+
+  <g class="grid-lines">
+    <line x1="0" y1="200" x2="1000" y2="200" />
+    <line x1="0" y1="230" x2="1000" y2="230" />
+    <path d="M 100 200 L 50 250 M 200 200 L 170 250 M 300 200 L 290 250 M 400 200 L 410 250 M 500 200 L 530 250 M 600 200 L 650 250 M 700 200 L 770 250 M 800 200 L 890 250 M 900 200 L 1000 250" />
+  </g>
+
+  <g class="dragon-system">
+    <g class="left-wing">
+      <path class="glowing-path" d="M 470 115 C 440 90, 390 60, 330 80 C 370 110, 420 125, 470 115 Z" />
+      <path class="body-accent" d="M 330 80 C 380 90, 420 105, 470 115 M 360 85 C 400 95, 430 108, 470 115 M 390 90 C 420 100, 440 110, 470 115" />
+    </g>
+
+    <g class="right-wing">
+      <path class="glowing-path" d="M 530 115 C 560 90, 610 60, 670 80 C 630 110, 580 125, 530 115 Z" />
+      <path class="body-accent" d="M 670 80 C 620 90, 580 105, 530 115 M 640 85 C 600 95, 570 108, 530 115 M 610 90 C 580 100, 560 110, 530 115" />
+    </g>
+
+    <path class="glowing-path" d="M 450 120 C 470 100, 480 105, 500 105 C 520 105, 530 100, 550 120 C 565 135, 585 135, 600 125 C 615 115, 630 120, 645 130" />
+    <path class="glowing-path" d="M 645 130 C 665 140, 690 135, 715 145 C 730 150, 745 145, 760 155 L 775 145 L 785 160 L 760 165 Z" />
+    <path class="body-accent" d="M 760 155 L 785 160" />
+    <path class="glowing-path" d="M 450 120 C 430 130, 415 125, 400 110 C 390 100, 385 85, 370 80 C 355 75, 340 85, 330 75 C 320 65, 310 65, 295 70 C 310 80, 325 80, 335 90 C 345 100, 360 105, 375 105 Z" />
+    <path class="body-accent" d="M 370 80 L 375 70 M 365 82 L 368 75 M 340 85 L 342 78" />
+    <circle cx="500" cy="115" r="5" fill="#72FFFF" filter="url(#glow-cyan)" />
+  </g>
+</svg>
 
 <div align="center">
   <img src="./dragon.svg" width="900"/>
