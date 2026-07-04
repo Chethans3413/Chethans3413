@@ -222,20 +222,6 @@ Data analytics project — customer behavior analysis using **Python, SQL & Powe
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 「 Contribution Snake 」
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chethans3413/Chethans3413/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chethans3413/Chethans3413/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Chethans3413/Chethans3413/output/github-snake-dark.svg"/>
-  </picture>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
