@@ -1,11 +1,15 @@
+<!-- ============================================================ -->
+<!--                 CHETHAN S · GITHUB PROFILE                 -->
+<!-- ============================================================ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=3000&pause=500&color=A78BFA&center=true&vCenter=true&width=750&height=120&lines=Chethan+S" alt="Chethan S"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=500&color=C4B5FD&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%E2%80%A2+Gen+AI+Builder+%E2%80%A2+Android+Developer" alt="subtitle"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=%5B%E2%96%B6%5D+Boot+Sequence+Initiated...;%5B%E2%96%B6%5D+Loading+AI+%26+ML+Core+Modules...;%5B%E2%96%B6%5D+Deploying+Generative+AI+Pipelines...;%5B%E2%96%B6%5D+Compiling+Android+Applications...;%5B%E2%96%B6%5D+Neural+Link+Established.+Welcome." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&height=100&lines=Chethan+S" alt="Chethan S"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=750&lines=%5B%E2%96%B6%5D+Boot+Sequence+Initiated...;%5B%E2%96%B6%5D+Loading+AI+%26+ML+Core+Modules...;%5B%E2%96%B6%5D+Deploying+Generative+AI+Pipelines...;%5B%E2%96%B6%5D+Compiling+Android+Applications...;%5B%E2%96%B6%5D+Neural+Link+Established.+Welcome." alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -144,13 +148,9 @@ Multilingual Android app for farmers with AI-assisted crop disease detection & r
 
 <div align="center">
 
-<img height="182" src="https://github-readme-stats-salesp07.vercel.app/api?username=Chethans3413&show_icons=true&count_private=true&hide_border=true&bg_color=130f40&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff&ring_color=4f46e5&include_all_commits=true"/>
-&nbsp;&nbsp;
 <img height="182" src="https://streak-stats.demolab.com/?user=Chethans3413&hide_border=true&background=130f40&stroke=7c3aed&ring=4f46e5&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e9d5ff&dates=c4b5fd&currStreakNum=c4b5fd"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Chethans3413&layout=compact&hide_border=true&bg_color=130f40&title_color=a78bfa&text_color=e9d5ff&langs_count=8" width="50%"/>
+&nbsp;&nbsp;
+<img height="182" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Chethans3413&layout=compact&hide_border=true&bg_color=130f40&title_color=a78bfa&text_color=e9d5ff&langs_count=8"/>
 
 </div>
 
@@ -171,7 +171,9 @@ Multilingual Android app for farmers with AI-assisted crop disease detection & r
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
+</div>
 
 <div align="center">
   <sub>✨ Crafted with ❤️ by <a href="https://github.com/Chethans3413"><b>Chethan S</b></a> &nbsp;·&nbsp; Building the future, one commit at a time &nbsp;·&nbsp; © 2026</sub>
