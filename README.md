@@ -3,10 +3,6 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="./dragon.svg" width="900"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&height=100&lines=Chethan+S" alt="Chethan S"/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=72FFFF&center=true&vCenter=true&width=750&lines=%5B%E2%96%B6%5D+Initializing+Ocean+System...;%5B%E2%96%B6%5D+Loading+Neural+AI+Cores...;%5B%E2%96%B6%5D+Deploying+RAG+%26+LLM+Agents...;%5B%E2%96%B6%5D+Compiling+Android+Architectures...;%5B%E2%96%B6%5D+Connection+Established.+System+Online." alt="Typing SVG"/>
