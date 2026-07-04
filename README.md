@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-769a689b-a010-449e-87a4-842217c4613b.gif" width="900"/>
+  <img src="./dragon.svg" width="900"/>
 </div>
 
 <div align="center">
