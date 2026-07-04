@@ -64,55 +64,111 @@ const chethan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 <table>
+
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🌍 AI Disaster Prediction
-> *`Patent Published`*
+### 🤖 JARVIS AI Workstation
+Production-grade AI orchestrator inspired by JARVIS — 40+ system endpoints, **Gemini 2.0** integration, real-time HUD & computer vision.
 
-Real-time AI forecasting for floods, earthquakes & wildfires. Risk assessment + emergency response system.
+![JavaScript](https://img.shields.io/badge/JavaScript-312e81?style=flat-square&logo=javascript&logoColor=a78bfa)
+![Gemini](https://img.shields.io/badge/Gemini_2.0-312e81?style=flat-square&logo=google&logoColor=a78bfa)
+
+[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/Jarvis)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Neural Document Reader
+Next.js AI Document Agent — upload PDFs & query with local **RAG pipeline**. Built with LangChain.js, Ollama & Mistral 7B.
+
+![Python](https://img.shields.io/badge/Python-312e81?style=flat-square&logo=python&logoColor=a78bfa)
+![LangChain](https://img.shields.io/badge/LangChain-312e81?style=flat-square&logoColor=a78bfa)
+
+[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/Neural-Document-Reader)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 AI Disaster Prediction `📜 Patent`
+Full-stack AI disaster management platform — ML agents predict floods, hurricanes & earthquakes with intelligent routing & offline P2P emergency response.
 
 ![Python](https://img.shields.io/badge/Python-312e81?style=flat-square&logo=python&logoColor=a78bfa)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-312e81?style=flat-square&logo=tensorflow&logoColor=a78bfa)
-![FastAPI](https://img.shields.io/badge/FastAPI-312e81?style=flat-square&logo=fastapi&logoColor=a78bfa)
 
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413)
-
-</td>
-<td width="50%" align="center">
-
-### 🎙️ Voice Virtual Assistant
-> *`🥈 2nd Place`*
-
-NLP-powered speech-to-text assistant with command interpretation & intelligent response generation.
-
-![JS](https://img.shields.io/badge/JavaScript-312e81?style=flat-square&logo=javascript&logoColor=a78bfa)
-![NLP](https://img.shields.io/badge/NLP-312e81?style=flat-square&logoColor=a78bfa)
-![CSS](https://img.shields.io/badge/HTML%2FCSS-312e81?style=flat-square&logo=html5&logoColor=a78bfa)
-
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413)
+[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/AI_Powered_Disaster_Prediction-main)
 
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
 ### 🌾 Raitha Varta — Smart Farming
-
-Multilingual Android app for farmers with AI-assisted crop disease detection & real-time agricultural insights.
+AI-powered agricultural companion for Karnataka farmers — **Gemini-driven** crop disease detection, live market prices & regional news.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-312e81?style=flat-square&logo=kotlin&logoColor=a78bfa)
 ![Firebase](https://img.shields.io/badge/Firebase-312e81?style=flat-square&logo=firebase&logoColor=a78bfa)
-![Android](https://img.shields.io/badge/Android-312e81?style=flat-square&logo=android&logoColor=a78bfa)
 
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413)
+[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/Raitha-Varta-Agriculture-)
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🥗 NutriPlan AI
+Intelligent nutrition planner — generates personalized diet plans using AI based on health goals & dietary preferences.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-312e81?style=flat-square&logo=typescript&logoColor=a78bfa)
+![AI](https://img.shields.io/badge/Generative_AI-312e81?style=flat-square&logo=google&logoColor=a78bfa)
+
+[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/NutriPlan-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Finance Dashboard
+Full-stack finance dashboard — **React/Vite + Supabase**, interactive charts, role-based access control & CQRS architecture.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-312e81?style=flat-square&logo=typescript&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-312e81?style=flat-square&logo=react&logoColor=a78bfa)
+
+[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/Finance-Dashboard-Backend)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 SNAKE_PROTOCOL
+Retro-futurist cyber-grid simulation with integrated **synthwave audio system** — built with React & Tailwind CSS.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-312e81?style=flat-square&logo=typescript&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-312e81?style=flat-square&logo=react&logoColor=a78bfa)
+
+[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/-AI---Generated-Snake-Game-with-React-)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Customer Behavior Analysis
+Data analytics project — customer behavior analysis using **Python, SQL & Power BI** for actionable business insights.
+
+![Python](https://img.shields.io/badge/Python-312e81?style=flat-square&logo=python&logoColor=a78bfa)
+![PowerBI](https://img.shields.io/badge/Power_BI-312e81?style=flat-square&logo=powerbi&logoColor=a78bfa)
+
+[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/customer_behavior_analysis)
+
+</td>
+</tr>
+
 </table>
 </div>
 
