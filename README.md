@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!--                 CHETHAN S · GITHUB PROFILE                 -->
+<!--              CHETHAN S · GITHUB SYSTEM PROFILE               -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -7,30 +7,30 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&height=100&lines=Chethan+S" alt="Chethan S"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=750&height=100&lines=Chethan+S" alt="Chethan S"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=750&lines=%5B%E2%96%B6%5D+Boot+Sequence+Initiated...;%5B%E2%96%B6%5D+Loading+AI+%26+ML+Core+Modules...;%5B%E2%96%B6%5D+Deploying+Generative+AI+Pipelines...;%5B%E2%96%B6%5D+Compiling+Android+Applications...;%5B%E2%96%B6%5D+Neural+Link+Established.+Welcome." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FFA07A&center=true&vCenter=true&width=750&lines=%5B%E2%96%B6%5D+Igniting+Dragon+Fire+Engine...;%5B%E2%96%B6%5D+Loading+Neural+AI+Cores...;%5B%E2%96%B6%5D+Deploying+RAG+%26+LLM+Agents...;%5B%E2%96%B6%5D+Compiling+Android+Architectures...;%5B%E2%96%B6%5D+Connection+Established.+System+Online." alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/chethan-s-780-61b250">
-    <img src="https://img.shields.io/badge/LinkedIn-130f40?style=for-the-badge&logo=linkedin&logoColor=a78bfa" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-120703?style=for-the-badge&logo=linkedin&logoColor=ff6b35" height="30"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:chethans3413@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-130f40?style=for-the-badge&logo=gmail&logoColor=a78bfa" height="30"/>
+    <img src="https://img.shields.io/badge/Gmail-120703?style=for-the-badge&logo=gmail&logoColor=ff6b35" height="30"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Chethans3413">
-    <img src="https://img.shields.io/badge/GitHub-130f40?style=for-the-badge&logo=github&logoColor=a78bfa" height="30"/>
+    <img src="https://img.shields.io/badge/GitHub-120703?style=for-the-badge&logo=github&logoColor=ff6b35" height="30"/>
   </a>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834227-ea456d80-a446-11eb-9c16-cf4e0c46006e.gif" width="100%">
 
-## ⚡ About Me
+## 「 About Me 」
 
 ```javascript
 const chethan = {
@@ -46,15 +46,15 @@ const chethan = {
 };
 ```
 
-- 🚀 Building **Generative AI Pipelines & Android Apps**
+- 🔥 Building **Generative AI Pipelines & Android Apps**
 - 🤖 Exploring **LLMs, RAG & Agentic AI**
 - 📱 Creating **Android Apps** with Kotlin & Jetpack Compose
 - 📜 **Patent Co-Inventor** — AI Disaster Prediction System
 - ⚡ Ask me about **Gen AI, ML, Android, or my Patent!**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834227-ea456d80-a446-11eb-9c16-cf4e0c46006e.gif" width="100%">
 
-## 💼 Experience
+## 「 Experience 」
 
 **Android App Development Using Gen AI** &nbsp;|&nbsp; *Intern @ MindMatrix* &nbsp;|&nbsp; `Feb 2026 – May 2026`
 
@@ -62,9 +62,9 @@ const chethan = {
 - Integrated **Google AI Studio & Cloud Labs** for Gen AI workflows
 - Managed **Firebase** integration, testing & debugging
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834227-ea456d80-a446-11eb-9c16-cf4e0c46006e.gif" width="100%">
 
-## 🚀 Projects
+## 「 Projects 」
 
 <div align="center">
 <table>
@@ -75,10 +75,10 @@ const chethan = {
 ### 🤖 JARVIS AI Workstation
 Production-grade AI orchestrator inspired by JARVIS — 40+ system endpoints, **Gemini 2.0** integration, real-time HUD & computer vision.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-312e81?style=flat-square&logo=javascript&logoColor=a78bfa)
-![Gemini](https://img.shields.io/badge/Gemini_2.0-312e81?style=flat-square&logo=google&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-120703?style=flat-square&logo=javascript&logoColor=ff6b35)
+![Gemini](https://img.shields.io/badge/Gemini_2.0-120703?style=flat-square&logo=google&logoColor=ff6b35)
 
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/Jarvis)
+[![Repo](https://img.shields.io/badge/View_Repo-120703?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Chethans3413/Jarvis)
 
 </td>
 <td width="50%" valign="top">
@@ -86,10 +86,10 @@ Production-grade AI orchestrator inspired by JARVIS — 40+ system endpoints, **
 ### 🧠 Neural Document Reader
 Next.js AI Document Agent — upload PDFs & query with local **RAG pipeline**. Built with LangChain.js, Ollama & Mistral 7B.
 
-![Python](https://img.shields.io/badge/Python-312e81?style=flat-square&logo=python&logoColor=a78bfa)
-![LangChain](https://img.shields.io/badge/LangChain-312e81?style=flat-square&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-120703?style=flat-square&logo=python&logoColor=ff6b35)
+![LangChain](https://img.shields.io/badge/LangChain-120703?style=flat-square&logoColor=ff6b35)
 
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/Neural-Document-Reader)
+[![Repo](https://img.shields.io/badge/View_Repo-120703?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Chethans3413/Neural-Document-Reader)
 
 </td>
 </tr>
@@ -100,10 +100,10 @@ Next.js AI Document Agent — upload PDFs & query with local **RAG pipeline**. B
 ### 🌍 AI Disaster Prediction `📜 Patent`
 Full-stack AI disaster management platform — ML agents predict floods, hurricanes & earthquakes with intelligent routing & offline P2P emergency response.
 
-![Python](https://img.shields.io/badge/Python-312e81?style=flat-square&logo=python&logoColor=a78bfa)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-312e81?style=flat-square&logo=tensorflow&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-120703?style=flat-square&logo=python&logoColor=ff6b35)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-120703?style=flat-square&logo=tensorflow&logoColor=ff6b35)
 
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/AI_Powered_Disaster_Prediction-main)
+[![Repo](https://img.shields.io/badge/View_Repo-120703?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Chethans3413/AI_Powered_Disaster_Prediction-main)
 
 </td>
 <td width="50%" valign="top">
@@ -111,10 +111,10 @@ Full-stack AI disaster management platform — ML agents predict floods, hurrica
 ### 🌾 Raitha Varta — Smart Farming
 AI-powered agricultural companion for Karnataka farmers — **Gemini-driven** crop disease detection, live market prices & regional news.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-312e81?style=flat-square&logo=kotlin&logoColor=a78bfa)
-![Firebase](https://img.shields.io/badge/Firebase-312e81?style=flat-square&logo=firebase&logoColor=a78bfa)
+![Kotlin](https://img.shields.io/badge/Kotlin-120703?style=flat-square&logo=kotlin&logoColor=ff6b35)
+![Firebase](https://img.shields.io/badge/Firebase-120703?style=flat-square&logo=firebase&logoColor=ff6b35)
 
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/Raitha-Varta-Agriculture-)
+[![Repo](https://img.shields.io/badge/View_Repo-120703?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Chethans3413/Raitha-Varta-Agriculture-)
 
 </td>
 </tr>
@@ -125,10 +125,10 @@ AI-powered agricultural companion for Karnataka farmers — **Gemini-driven** cr
 ### 🥗 NutriPlan AI
 Intelligent nutrition planner — generates personalized diet plans using AI based on health goals & dietary preferences.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-312e81?style=flat-square&logo=typescript&logoColor=a78bfa)
-![AI](https://img.shields.io/badge/Generative_AI-312e81?style=flat-square&logo=google&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-120703?style=flat-square&logo=typescript&logoColor=ff6b35)
+![AI](https://img.shields.io/badge/Generative_AI-120703?style=flat-square&logo=google&logoColor=ff6b35)
 
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/NutriPlan-AI)
+[![Repo](https://img.shields.io/badge/View_Repo-120703?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Chethans3413/NutriPlan-AI)
 
 </td>
 <td width="50%" valign="top">
@@ -136,10 +136,10 @@ Intelligent nutrition planner — generates personalized diet plans using AI bas
 ### 📊 Finance Dashboard
 Full-stack finance dashboard — **React/Vite + Supabase**, interactive charts, role-based access control & CQRS architecture.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-312e81?style=flat-square&logo=typescript&logoColor=a78bfa)
-![React](https://img.shields.io/badge/React-312e81?style=flat-square&logo=react&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-120703?style=flat-square&logo=typescript&logoColor=ff6b35)
+![React](https://img.shields.io/badge/React-120703?style=flat-square&logo=react&logoColor=ff6b35)
 
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/Finance-Dashboard-Backend)
+[![Repo](https://img.shields.io/badge/View_Repo-120703?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Chethans3413/Finance-Dashboard-Backend)
 
 </td>
 </tr>
@@ -150,10 +150,10 @@ Full-stack finance dashboard — **React/Vite + Supabase**, interactive charts, 
 ### 🐍 SNAKE_PROTOCOL
 Retro-futurist cyber-grid simulation with integrated **synthwave audio system** — built with React & Tailwind CSS.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-312e81?style=flat-square&logo=typescript&logoColor=a78bfa)
-![React](https://img.shields.io/badge/React-312e81?style=flat-square&logo=react&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-120703?style=flat-square&logo=typescript&logoColor=ff6b35)
+![React](https://img.shields.io/badge/React-120703?style=flat-square&logo=react&logoColor=ff6b35)
 
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/-AI---Generated-Snake-Game-with-React-)
+[![Repo](https://img.shields.io/badge/View_Repo-120703?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Chethans3413/-AI---Generated-Snake-Game-with-React-)
 
 </td>
 <td width="50%" valign="top">
@@ -161,10 +161,10 @@ Retro-futurist cyber-grid simulation with integrated **synthwave audio system** 
 ### 📈 Customer Behavior Analysis
 Data analytics project — customer behavior analysis using **Python, SQL & Power BI** for actionable business insights.
 
-![Python](https://img.shields.io/badge/Python-312e81?style=flat-square&logo=python&logoColor=a78bfa)
-![PowerBI](https://img.shields.io/badge/Power_BI-312e81?style=flat-square&logo=powerbi&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-120703?style=flat-square&logo=python&logoColor=ff6b35)
+![PowerBI](https://img.shields.io/badge/Power_BI-120703?style=flat-square&logo=powerbi&logoColor=ff6b35)
 
-[![Repo](https://img.shields.io/badge/View_Repo-130f40?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Chethans3413/customer_behavior_analysis)
+[![Repo](https://img.shields.io/badge/View_Repo-120703?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Chethans3413/customer_behavior_analysis)
 
 </td>
 </tr>
@@ -172,9 +172,9 @@ Data analytics project — customer behavior analysis using **Python, SQL & Powe
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834227-ea456d80-a446-11eb-9c16-cf4e0c46006e.gif" width="100%">
 
-## 🛸 Tech Arsenal
+## 「 Tech Arsenal 」
 
 <div align="center">
 
@@ -198,21 +198,21 @@ Data analytics project — customer behavior analysis using **Python, SQL & Powe
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834227-ea456d80-a446-11eb-9c16-cf4e0c46006e.gif" width="100%">
 
-## 📊 GitHub Stats
+## 「 GitHub Stats 」
 
 <div align="center">
 
-<img height="182" src="https://streak-stats.demolab.com/?user=Chethans3413&hide_border=true&background=130f40&stroke=7c3aed&ring=4f46e5&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e9d5ff&dates=c4b5fd&currStreakNum=c4b5fd"/>
+<img height="182" src="https://streak-stats.demolab.com/?user=Chethans3413&hide_border=true&background=120703&stroke=ff6b35&ring=ff5733&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=ffa07a&dates=ffa07a&currStreakNum=ff6b35"/>
 &nbsp;&nbsp;
-<img height="182" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Chethans3413&layout=compact&hide_border=true&bg_color=130f40&title_color=a78bfa&text_color=e9d5ff&langs_count=8"/>
+<img height="182" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Chethans3413&layout=compact&hide_border=true&bg_color=120703&title_color=ff6b35&text_color=ffa07a&langs_count=8"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834227-ea456d80-a446-11eb-9c16-cf4e0c46006e.gif" width="100%">
 
-## 🏆 Hall of Fame
+## 「 Hall of Fame 」
 
 <div align="center">
 
